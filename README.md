@@ -1,2 +1,2 @@
 # Pong
-I'm making a Pong game in Python
+Making a Pong game in Python
